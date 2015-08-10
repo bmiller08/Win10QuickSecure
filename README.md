@@ -1,5 +1,7 @@
 # Win10QuickSecure
-Changes MDM registry keys without the need for an MDM server to quickly disable WiFi-Sense and handle other potential security concerns in Windows 10.
+<p>Usage: Download and unzip. Double click Win10QuickSecure.bat
+
+<p>Changes MDM registry keys without the need for an MDM server to quickly disable WiFi-Sense and handle other potential security concerns in Windows 10.
 
 <p>Reference: https://msdn.microsoft.com/en-us/library/windows/hardware/dn904962(v=vs.85).aspx
 <br>The following policies are applied by this package, any policy can be applied individually using its individual registry patch:
